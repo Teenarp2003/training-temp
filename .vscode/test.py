@@ -26,8 +26,8 @@ class Test1:
         for x in range(a,b+1):
             if x%2==1:
                 print(x,end=" ")
-#object_loop = Test1
-#object_loop.even_odd()
+object_loop = Test1
+object_loop.even_odd()
 
 #import random as rand
 #abc =rand.randint(a=int(input()),b=int(input()))
